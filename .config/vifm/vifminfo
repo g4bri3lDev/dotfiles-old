@@ -1,0 +1,550 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+
+# Bookmarks:
+
+# TUI:
+al
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/gabriel/.config
+	spotify
+54
+d/home/gabriel/.config/spotify
+	..
+0
+d/home/gabriel/.config
+	sxiv
+53
+d/home/gabriel/.config/sxiv
+	exec
+1
+d/home/gabriel/.config/sxiv/exec
+	key-handler
+1
+d/home/gabriel/.config/sxiv
+	exec
+1
+d/home/gabriel/.config
+	vifm
+53
+d/home/gabriel/.config/vifm
+	vifmrc
+5
+d/home/gabriel/.config
+	xfburn
+53
+d/home/gabriel/.config/xfburn
+	..
+0
+d/home/gabriel/.config
+	user-dirs.dirs
+57
+d/home/gabriel
+	..
+0
+d/home
+	gabriel
+1
+d/
+	mnt
+9
+d/mnt
+	usb
+3
+d/mnt/usb
+	lost+found
+7
+d/home/gabriel
+	Downloads
+2
+d/home/gabriel/Downloads
+	octopi-buster-lite-0.17.0
+9
+d/home/gabriel/Downloads/octopi-buster-lite-0.17.0
+	..
+0
+
+# Right window history (oldest to newest):
+D/home/gabriel/Downloads
+	grips.stl
+47
+D/home/gabriel
+	Downloads
+2
+D/home/gabriel/Downloads
+	VID_20200320_154008.mp4
+17
+D/home/gabriel
+	Downloads
+2
+D/home/gabriel/Downloads
+	VID_20200320_154008.mp4
+16
+D/home/gabriel
+	Downloads
+2
+D/home/gabriel/Downloads
+	WIN_20200320_23_40_45_Pro.mp4
+19
+D/home/gabriel
+	Pictures
+5
+D/home/gabriel/Pictures
+	..
+0
+D/home/gabriel
+	Downloads
+2
+D/home/gabriel/Downloads
+	redacted
+10
+D/home/gabriel
+	Documents
+1
+D/home/gabriel/Documents
+	deutsch_dokumernte
+4
+D/home/gabriel/Documents/deutsch_dokumernte
+	..
+0
+D/home/gabriel/Documents
+	deutsch_dokumernte
+4
+D/home/gabriel
+	dev
+9
+D/home/gabriel/dev
+	dotfiles
+9
+D/home/gabriel/dev/dotfiles
+	..
+0
+D/home/gabriel
+	dev
+9
+
+# Command line history (oldest to newest):
+:mkdir Musicownload
+:v
+:mkdir battery_new
+:touch battery_new
+:mkdir wii
+:unzip 
+:mkdir emby
+:chown emby.emby emby/
+:mkdir unrotated
+:mkdir usbstick
+:mkdir other
+:zip 
+:zip fotos.zip *.jpg
+:q
+:mkdir irgendein_ordner
+:mkdir wallpapers
+:help
+:touch 
+:touch ssh
+
+# Search history (oldest to newest):
+/.config
+/wa
+/thin
+/.scr
+/confi
+/col
+/cr
+/ema
+/kfac
+/Z-
+/holder
+/mn
+/vid
+/emoj
+/Doc
+/de
+/dev
+/dow
+/octo
+
+# Prompt history (oldest to newest):
+pScanned Document-15.png
+pScanned Document-32.png
+pScanned Document-31.png
+pScanned Document-26.png
+pScanned Document-23.png
+pScanned Document-22.png
+pScanned Document-18.png
+pScanned Document-17.png
+pScanned Document-16.png
+pScanned Document-13.png
+pScanned Document-12.png
+pScanned Document-11.png
+pScanned Document-10.png
+phochzeit_FARBIG
+phochzeit_farbig_old
+pColorizedhochzeit_farbig
+phochzeit_farbig
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/home/gabriel/.local/share/vifm/Trash/000_chrome-eppojlglocelodeimnohnlnionkobfln-Default.desktop
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/gabriel/.local/share/vifm/Trash/000_battery_new
+	/home/gabriel/.scripts/statusbar/battery_new
+t/home/gabriel/.local/share/vifm/Trash/000_f25c545c-dc56-410c-a166-111b0d51ceb3.jpg
+	/home/gabriel/Downloads/f25c545c-dc56-410c-a166-111b0d51ceb3.jpg
+t/home/gabriel/.local/share/vifm/Trash/000_SIN_0001.JPG
+	/mnt/usb/DCIM/100SIMOS/SIN_0001.JPG
+t/home/gabriel/.local/share/vifm/Trash/000_SIN_0002.JPG
+	/mnt/usb/DCIM/100SIMOS/SIN_0002.JPG
+t/home/gabriel/.local/share/vifm/Trash/000_SIN_0003.JPG
+	/mnt/usb/DCIM/100SIMOS/SIN_0003.JPG
+t/home/gabriel/.local/share/vifm/Trash/000_SIN_0004.JPG
+	/mnt/usb/DCIM/100SIMOS/SIN_0004.JPG
+t/home/gabriel/.local/share/vifm/Trash/000_SIN_0005.JPG
+	/mnt/usb/DCIM/100SIMOS/SIN_0005.JPG
+t/home/gabriel/.local/share/vifm/Trash/000_SIN_0006.JPG
+	/mnt/usb/DCIM/100SIMOS/SIN_0006.JPG
+t/home/gabriel/.local/share/vifm/Trash/000_SIN_0007.JPG
+	/mnt/usb/DCIM/100SIMOS/SIN_0007.JPG
+t/home/gabriel/.local/share/vifm/Trash/000_SIN_0008.JPG
+	/mnt/usb/DCIM/100SIMOS/SIN_0008.JPG
+t/home/gabriel/.local/share/vifm/Trash/000_SIN_0009.JPG
+	/mnt/usb/DCIM/100SIMOS/SIN_0009.JPG
+t/home/gabriel/.local/share/vifm/Trash/000_SIN_0010.JPG
+	/mnt/usb/DCIM/100SIMOS/SIN_0010.JPG
+t/home/gabriel/.local/share/vifm/Trash/000_SIN_0011.JPG
+	/mnt/usb/DCIM/100SIMOS/SIN_0011.JPG
+t/home/gabriel/.local/share/vifm/Trash/000_SIN_0012.JPG
+	/mnt/usb/DCIM/100SIMOS/SIN_0012.JPG
+t/home/gabriel/.local/share/vifm/Trash/000_SIN_0013.JPG
+	/mnt/usb/DCIM/100SIMOS/SIN_0013.JPG
+t/home/gabriel/.local/share/vifm/Trash/000_SIN_0014.JPG
+	/mnt/usb/DCIM/100SIMOS/SIN_0014.JPG
+t/home/gabriel/.local/share/vifm/Trash/000_SIN_0015.JPG
+	/mnt/usb/DCIM/100SIMOS/SIN_0015.JPG
+t/home/gabriel/.local/share/vifm/Trash/000_SIN_0016.JPG
+	/mnt/usb/DCIM/100SIMOS/SIN_0016.JPG
+t/home/gabriel/.local/share/vifm/Trash/000_SIN_0017.JPG
+	/mnt/usb/DCIM/100SIMOS/SIN_0017.JPG
+t/home/gabriel/.local/share/vifm/Trash/000_SIN_0018.JPG
+	/mnt/usb/DCIM/100SIMOS/SIN_0018.JPG
+t/home/gabriel/.local/share/vifm/Trash/000_SIN_0019.JPG
+	/mnt/usb/DCIM/100SIMOS/SIN_0019.JPG
+t/home/gabriel/.local/share/vifm/Trash/000_SIN_0020.JPG
+	/mnt/usb/DCIM/100SIMOS/SIN_0020.JPG
+t/home/gabriel/.local/share/vifm/Trash/000_SIN_0021.JPG
+	/mnt/usb/DCIM/100SIMOS/SIN_0021.JPG
+t/home/gabriel/.local/share/vifm/Trash/000_multimc
+	/home/gabriel/multimc
+t/home/gabriel/.local/share/vifm/Trash/000_20190422-Bismarck.m4a
+	/home/gabriel/Music/20190422-Bismarck.m4a
+t/home/gabriel/.local/share/vifm/Trash/000_Sabaton-Bismarck.m4a
+	/home/gabriel/Music/Sabaton-Bismarck.m4a
+t/home/gabriel/.local/share/vifm/Trash/000_Sabaton\ -\ Bismarck.m4a
+	/home/gabriel/Music/Sabaton\ -\ Bismarck.m4a
+t/home/gabriel/.local/share/vifm/Trash/000_凛として時雨 - Enigmatic Feeling (2015 mix _ remastered at METROPOLIS).opus
+	/home/gabriel/Music/凛として時雨 - Enigmatic Feeling (2015 mix _ remastered at METROPOLIS).opus
+t/home/gabriel/.local/share/vifm/Trash/000_Ленинград - Кабриолет.opus
+	/home/gabriel/Music/Ленинград - Кабриолет.opus
+t/home/gabriel/.local/share/vifm/Trash/000_20190412-GLORYHAMMER - Gloryhammer (Official Video) _ Napalm Records.ogg
+	/home/gabriel/Music/20190412-GLORYHAMMER - Gloryhammer (Official Video) _ Napalm Records.ogg
+t/home/gabriel/.local/share/vifm/Trash/002_trimmed_mask.gif
+	/home/gabriel/Pictures/trimmed_mask.gif
+t/home/gabriel/.local/share/vifm/Trash/000_unrotated.png
+	/home/gabriel/Pictures/unrotated.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-000.Document-01-cropped
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-000.Document-01-cropped
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-000.Document-02-cropped
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-000.Document-02-cropped
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-000.Document-03-cropped
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-000.Document-03-cropped
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-000.Document-04-cropped
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-000.Document-04-cropped
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-000.Document-05-cropped
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-000.Document-05-cropped
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-001.Document-04-cropped
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-001.Document-04-cropped
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-001.Document-05-cropped
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-001.Document-05-cropped
+t/home/gabriel/.local/share/vifm/Trash/001_Scanned-000.Document-01.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-000.Document-01.png
+t/home/gabriel/.local/share/vifm/Trash/001_Scanned-000.Document-02.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-000.Document-02.png
+t/home/gabriel/.local/share/vifm/Trash/001_Scanned-000.Document-03.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-000.Document-03.png
+t/home/gabriel/.local/share/vifm/Trash/001_Scanned-000.Document-04.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-000.Document-04.png
+t/home/gabriel/.local/share/vifm/Trash/001_Scanned-000.Document-05.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-000.Document-05.png
+t/home/gabriel/.local/share/vifm/Trash/001_Scanned-000.Document-06.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-000.Document-06.png
+t/home/gabriel/.local/share/vifm/Trash/001_Scanned-000.Document-07.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-000.Document-07.png
+t/home/gabriel/.local/share/vifm/Trash/001_Scanned-000.Document-08.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-000.Document-08.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-000.Document-09.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-000.Document-09.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-000.Document-10.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-000.Document-10.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-000.Document-11.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-000.Document-11.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-000.Document-12.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-000.Document-12.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-000.Document-13.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-000.Document-13.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-000.Document-14.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-000.Document-14.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-000.Document-15.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-000.Document-15.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-001.Document-09.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-001.Document-09.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-001.Document-11.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-001.Document-11.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-001.Document-12.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-001.Document-12.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-000.Document-20.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-000.Document-20.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-000.Document-21.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-000.Document-21.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-000.Document-27.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-000.Document-27.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-000.Document-28.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-000.Document-28.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-000.Document-29.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-000.Document-29.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-000.Document-30.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-000.Document-30.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-000.Document-33.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-000.Document-33.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-000.Document-34.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-000.Document-34.png
+t/home/gabriel/.local/share/vifm/Trash/001_Scanned-001.Document-02.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-001.Document-02.png
+t/home/gabriel/.local/share/vifm/Trash/002_Scanned-001.Document-03.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-001.Document-03.png
+t/home/gabriel/.local/share/vifm/Trash/002_Scanned-001.Document-04.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-001.Document-04.png
+t/home/gabriel/.local/share/vifm/Trash/002_Scanned-001.Document-05.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-001.Document-05.png
+t/home/gabriel/.local/share/vifm/Trash/002_Scanned-001.Document-06.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-001.Document-06.png
+t/home/gabriel/.local/share/vifm/Trash/002_Scanned-001.Document-07.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-001.Document-07.png
+t/home/gabriel/.local/share/vifm/Trash/002_Scanned-001.Document-08.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-001.Document-08.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-001.Document-17.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-001.Document-17.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-001.Document-20.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-001.Document-20.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-001.Document-21.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-001.Document-21.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-001.Document-22.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-001.Document-22.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-001.Document-25.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-001.Document-25.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-001.Document-26.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-001.Document-26.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-001.Document-27.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-001.Document-27.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-001.Document-29.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-001.Document-29.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-001.Document-30.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-001.Document-30.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-001.Document-31.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-001.Document-31.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-001.Document-32.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-001.Document-32.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-001.Document-33.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-001.Document-33.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-001.Document-34.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-001.Document-34.png
+t/home/gabriel/.local/share/vifm/Trash/001_Scanned-002.Document-02.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-002.Document-02.png
+t/home/gabriel/.local/share/vifm/Trash/001_Scanned-002.Document-08.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-002.Document-08.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-002.Document-21.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-002.Document-21.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-002.Document-29.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-002.Document-29.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-002.Document-31.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-002.Document-31.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-002.Document-34.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-002.Document-34.png
+t/home/gabriel/.local/share/vifm/Trash/001_Scanned-003.Document-02.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-003.Document-02.png
+t/home/gabriel/.local/share/vifm/Trash/001_Scanned-003.Document-08.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-003.Document-08.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-000.Document-19.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-000.Document-19.png
+t/home/gabriel/.local/share/vifm/Trash/001_Scanned-002.Document-03.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-002.Document-03.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-000.Document-24.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-000.Document-24.png
+t/home/gabriel/.local/share/vifm/Trash/000_Scanned-000.Document-25.png
+	/home/gabriel/Pictures/hochzeit_maria_georg/cropped/Scanned-000.Document-25.png
+t/home/gabriel/.local/share/vifm/Trash/000_tolino
+	/home/gabriel/tolino
+t/home/gabriel/.local/share/vifm/Trash/000_hochzeit_maria_georg
+	/home/gabriel/usbstick/hochzeit_maria_georg
+t/home/gabriel/.local/share/vifm/Trash/001_CONTENTS
+	/home/gabriel/usbstick/CONTENTS
+t/home/gabriel/.local/share/vifm/Trash/000_System Volume Information
+	/home/gabriel/usbstick/System Volume Information
+t/home/gabriel/.local/share/vifm/Trash/000_.emacs.d
+	/home/gabriel/.emacs.d
+t/home/gabriel/.local/share/vifm/Trash/000_Game of Thrones S1E3.mp4
+	/media/files/tvshows/Game of Thrones/Season 1/Game of Thrones S1E3.mp4
+t/home/gabriel/.local/share/vifm/Trash/000_Game of Thrones S1E4.mp4
+	/media/files/tvshows/Game of Thrones/Season 1/Game of Thrones S1E4.mp4
+t/home/gabriel/.local/share/vifm/Trash/000_Creative Commons Lizenz.txt
+	/home/gabriel/Downloads/Creative Commons Lizenz.txt
+t/home/gabriel/.local/share/vifm/Trash/000_Fuckr.exe
+	/home/gabriel/Downloads/Fuckr.exe
+t/home/gabriel/.local/share/vifm/Trash/000_d3dcompiler_47.dll
+	/home/gabriel/Downloads/d3dcompiler_47.dll
+t/home/gabriel/.local/share/vifm/Trash/000_directives.coffee
+	/home/gabriel/Downloads/directives.coffee
+t/home/gabriel/.local/share/vifm/Trash/000_fuckr.coffee
+	/home/gabriel/Downloads/fuckr.coffee
+t/home/gabriel/.local/share/vifm/Trash/000_fuckr.js
+	/home/gabriel/Downloads/fuckr.js
+t/home/gabriel/.local/share/vifm/Trash/000_gcc-8.3.0-1-x86_64.pkg.tar.xz
+	/home/gabriel/Downloads/gcc-8.3.0-1-x86_64.pkg.tar.xz
+t/home/gabriel/.local/share/vifm/Trash/000_gcc-libs-8.3.0-1-x86_64.pkg.tar.xz
+	/home/gabriel/Downloads/gcc-libs-8.3.0-1-x86_64.pkg.tar.xz
+t/home/gabriel/.local/share/vifm/Trash/000_gcc8-libs-8.3.0-1-x86_64.pkg.tar.xz
+	/home/gabriel/Downloads/gcc8-libs-8.3.0-1-x86_64.pkg.tar.xz
+t/home/gabriel/.local/share/vifm/Trash/000_icudtl.dat
+	/home/gabriel/Downloads/icudtl.dat
+t/home/gabriel/.local/share/vifm/Trash/000_index.html
+	/home/gabriel/Downloads/index.html
+t/home/gabriel/.local/share/vifm/Trash/000_libEGL.dll
+	/home/gabriel/Downloads/libEGL.dll
+t/home/gabriel/.local/share/vifm/Trash/000_libGLESv2.dll
+	/home/gabriel/Downloads/libGLESv2.dll
+t/home/gabriel/.local/share/vifm/Trash/000_natives_blob.bin
+	/home/gabriel/Downloads/natives_blob.bin
+t/home/gabriel/.local/share/vifm/Trash/000_node.dll
+	/home/gabriel/Downloads/node.dll
+t/home/gabriel/.local/share/vifm/Trash/000_nw.dll
+	/home/gabriel/Downloads/nw.dll
+t/home/gabriel/.local/share/vifm/Trash/000_nw_100_percent.pak
+	/home/gabriel/Downloads/nw_100_percent.pak
+t/home/gabriel/.local/share/vifm/Trash/000_nw_200_percent.pak
+	/home/gabriel/Downloads/nw_200_percent.pak
+t/home/gabriel/.local/share/vifm/Trash/000_nw_elf.dll
+	/home/gabriel/Downloads/nw_elf.dll
+t/home/gabriel/.local/share/vifm/Trash/000_package.json
+	/home/gabriel/Downloads/package.json
+t/home/gabriel/.local/share/vifm/Trash/000_resources.pak
+	/home/gabriel/Downloads/resources.pak
+t/home/gabriel/.local/share/vifm/Trash/000_snapshot_blob.bin
+	/home/gabriel/Downloads/snapshot_blob.bin
+t/home/gabriel/.local/share/vifm/Trash/000_audio
+	/home/gabriel/Downloads/audio
+t/home/gabriel/.local/share/vifm/Trash/000_css
+	/home/gabriel/Downloads/css
+t/home/gabriel/.local/share/vifm/Trash/000_controllers
+	/home/gabriel/Downloads/controllers
+t/home/gabriel/.local/share/vifm/Trash/000_img
+	/home/gabriel/Downloads/img
+t/home/gabriel/.local/share/vifm/Trash/000_locales
+	/home/gabriel/Downloads/locales
+t/home/gabriel/.local/share/vifm/Trash/000_node_modules
+	/home/gabriel/Downloads/node_modules
+t/home/gabriel/.local/share/vifm/Trash/000_services
+	/home/gabriel/Downloads/services
+t/home/gabriel/.local/share/vifm/Trash/000_vendor
+	/home/gabriel/Downloads/vendor
+t/home/gabriel/.local/share/vifm/Trash/000_views
+	/home/gabriel/Downloads/views
+t/home/gabriel/.local/share/vifm/Trash/000_components
+	/home/gabriel/dev/pdfgenerator/src/components
+t/home/gabriel/.local/share/vifm/Trash/000_randomFunctions.js
+	/home/gabriel/dev/pdfgenerator/src/randomFunctions.js
+t/home/gabriel/.local/share/vifm/Trash/000_settings.js
+	/home/gabriel/dev/pdfgenerator/src/settings.js
+t/home/gabriel/.local/share/vifm/Trash/000_Ленинград - Патриотка.opus
+	/home/gabriel/Music/Ленинград - Патриотка.opus
+t/home/gabriel/.local/share/vifm/Trash/000_NA - NA.opus
+	/home/gabriel/Music/NA - NA.opus
+t/home/gabriel/.local/share/vifm/Trash/000_dockerizedRecipeApp
+	/home/gabriel/dev/dockerizedRecipeApp
+t/home/gabriel/.local/share/vifm/Trash/000_monopolyapp
+	/home/gabriel/dev/monopolyapp
+t/home/gabriel/.local/share/vifm/Trash/000_recipeapp
+	/home/gabriel/dev/recipeapp
+t/home/gabriel/.local/share/vifm/Trash/000_pdfgenerator
+	/home/gabriel/dev/pdfgenerator
+t/home/gabriel/.local/share/vifm/Trash/000_aot
+	/home/gabriel/dev/aot
+t/home/gabriel/.local/share/vifm/Trash/000_FIRMWARE.CUR
+	/mnt/usb/FIRMWARE.CUR
+t/home/gabriel/.local/share/vifm/Trash/000_bmp
+	/mnt/usb/bmp
+t/home/gabriel/.local/share/vifm/Trash/000_font
+	/mnt/usb/font
+t/home/gabriel/.local/share/vifm/Trash/000_thinkpad_red.jpeg
+	/home/gabriel/Pictures/thinkpad_red.jpeg
+t/home/gabriel/.local/share/vifm/Trash/000_sw2.jpg
+	/home/gabriel/Pictures/sw2.jpg
+t/home/gabriel/.local/share/vifm/Trash/000_thinkpad_ibm.jpg
+	/home/gabriel/Pictures/thinkpad_ibm.jpg
+t/home/gabriel/.local/share/vifm/Trash/000_thinkpad_wallpaper.png
+	/home/gabriel/Pictures/thinkpad_wallpaper.png
+t/home/gabriel/.local/share/vifm/Trash/000_thinkpad_wallpaper_2.jpg
+	/home/gabriel/Pictures/thinkpad_wallpaper_2.jpg
+t/home/gabriel/.local/share/vifm/Trash/000_wall.png
+	/home/gabriel/Pictures/wall.png
+t/home/gabriel/.local/share/vifm/Trash/000_wall_old.png
+	/home/gabriel/Pictures/wall_old.png
+t/home/gabriel/.local/share/vifm/Trash/000_wallpapersden.com_synthwave-and-retrowave_1920x1080.jpg
+	/home/gabriel/Pictures/wallpapersden.com_synthwave-and-retrowave_1920x1080.jpg
+t/home/gabriel/.local/share/vifm/Trash/001_BIGTREE_TFT35_V3.0.25.1.bin
+	/mnt/usb/BIGTREE_TFT35_V3.0.25.1.bin
+t/home/gabriel/.local/share/vifm/Trash/000_2020-03-06_1904.jpg
+	/home/gabriel/2020-03-06_1904.jpg
+t/home/gabriel/.local/share/vifm/Trash/000_GK_Mirskofen
+	/home/gabriel/Downloads/Schützen/GK_Mirskofen
+t/home/gabriel/.local/share/vifm/Trash/000_VID_20200320_154008 (1).mp4
+	/home/gabriel/Downloads/VID_20200320_154008 (1).mp4
+t/home/gabriel/.local/share/vifm/Trash/000_VID_20200320_154008.mp4
+	/home/gabriel/Downloads/VID_20200320_154008.mp4
+t/home/gabriel/.local/share/vifm/Trash/000_screencast-200307-1858-34.mkv
+	/home/gabriel/screencast-200307-1858-34.mkv
+t/home/gabriel/.local/share/vifm/Trash/000_screencast-200324-1509-49.mkv
+	/home/gabriel/screencast-200324-1509-49.mkv
+t/home/gabriel/.local/share/vifm/Trash/000_pic-selected-200319-2051-20.png
+	/home/gabriel/pic-selected-200319-2051-20.png
+t/home/gabriel/.local/share/vifm/Trash/000_steam.desktop
+	/home/gabriel/steam.desktop
+t/home/gabriel/.local/share/vifm/Trash/000_pic-selected-200316-1638-33.png
+	/home/gabriel/pic-selected-200316-1638-33.png
+t/home/gabriel/.local/share/vifm/Trash/000_pic-full-200324-1622-58.png
+	/home/gabriel/pic-full-200324-1622-58.png
+t/home/gabriel/.local/share/vifm/Trash/000_pic-full-200322-1926-04.png
+	/home/gabriel/pic-full-200322-1926-04.png
+t/home/gabriel/.local/share/vifm/Trash/000_pic-full-200319-2051-16.png
+	/home/gabriel/pic-full-200319-2051-16.png
+t/home/gabriel/.local/share/vifm/Trash/000_pic-full-200316-1638-21.png
+	/home/gabriel/pic-full-200316-1638-21.png
+t/home/gabriel/.local/share/vifm/Trash/000_pic-full-200307-1833-25.png
+	/home/gabriel/pic-full-200307-1833-25.png
+t/home/gabriel/.local/share/vifm/Trash/000_pic-full-191026-2057-34.png
+	/home/gabriel/pic-full-191026-2057-34.png
+t/home/gabriel/.local/share/vifm/Trash/000_chrome-jgeocpdicgmkeemopbanhokmhcgcflmi-Default.desktop
+	/home/gabriel/chrome-jgeocpdicgmkeemopbanhokmhcgcflmi-Default.desktop
+t/home/gabriel/.local/share/vifm/Trash/000_chrome-eppojlglocelodeimnohnlnionkobfln-Default.desktop
+	/home/gabriel/chrome-eppojlglocelodeimnohnlnionkobfln-Default.desktop

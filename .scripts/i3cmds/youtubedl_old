@@ -1,0 +1,16 @@
+#!/bin/bash
+#Gives a prompt to download from Youtube.
+#Gives the user the choice whether to download the video or to extract the audio.
+
+url=$(printf "" | dmenu -i -p "URL:" ) || exit
+choice=$(printf "Video\\nAudio" | dmenu -i -p  "Format:") ||exit 1
+
+if [ "$choice" == "Video" ]; then
+	youtube-dl --add-metadata -i -o '~/Videos/%(upload_date)s-%(title)s.%(ext)s' $url
+else
+	if [ "$choice" == "Audio" ]; then
+		youtube-dl -x -f bestaudio/best --add-metadata -o '~/Music/%(artist)s - %(track)s.%(ext)s' $url
+	else
+		exit 1
+	fi
+fi

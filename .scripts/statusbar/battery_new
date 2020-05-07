@@ -1,0 +1,7 @@
+#!/bin/sh
+
+
+status=$(acpi -b)
+
+print "Test"
+#printf "<span>%s</span>" "$status"

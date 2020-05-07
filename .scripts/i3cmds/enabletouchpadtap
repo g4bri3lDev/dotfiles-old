@@ -1,0 +1,7 @@
+#!/bin/bash
+#Gives a prompt to download from Youtube.
+#Gives the user the choice whether to download the video or to extract the audio.
+
+deviceid= xinput list | grep TouchPad | awk '{print $6}' | cut -b 4-6
+#echo $deviceid
+xinput set-prop $deviceid 265 1

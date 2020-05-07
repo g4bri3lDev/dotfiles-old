@@ -1,0 +1,37 @@
+#!/bin/sh
+#Gives a dmenu prompt to control systemctl services
+#pgrep -x dmenu && exit
+
+getService() {
+	service="$(systemctl list-units -t service --no-pager --no-legend | awk '{print $1}' | dmenu -i -l 20)"
+}
+getOptions(){
+	op1="status"
+	if [ "$(systemctl is-active $service)" == "active" ]; then
+		op2="stop"
+	else
+		op2="start"
+	fi
+
+	if [ "$(systemctl is-enabled $service)" == "enabled" ]; then
+		op3="disable"
+	else
+		op3="enable"
+	fi
+	options="$op1\\n$op2\\n$op3"
+}
+displayOptions(){
+getService
+getOptions
+command="$(echo -e "$options" | dmenu -i -p "Choose Action:")"
+}
+executeCommand(){
+displayOptions
+if [ $command == "status" ]; then
+	notify-send "$(systemctl status $service)"
+else
+	sudo systemctl $command $service
+	notify-send "Executed $command on $service"
+fi
+}
+executeCommand
